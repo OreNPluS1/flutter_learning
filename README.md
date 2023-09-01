@@ -1,6 +1,7 @@
 # test_app
 
-A new Flutter project.
+This is a test app written by me by completing the flutter official getting started codelab
+There's nothing special, all of the code is copy paseted
 
 ## Getting Started
 
